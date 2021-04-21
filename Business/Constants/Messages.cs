@@ -16,8 +16,9 @@ namespace Business.Constants
         public static string OrderDeleted = "sipariş silindi";
         public static string OrdersListed="siparişler listelendi";
         public static string OrderUpdated="sipariş güncellendi";
-        internal static string CategoryAdded="yeni kategori eklendi";
-        internal static string CategoryDeleted="kategori silindi";
-        internal static string CategoryUpdated="kategori güncellendi";
+        public static string CategoryAdded="yeni kategori eklendi";
+        public static string CategoryDeleted="kategori silindi";
+        public static string CategoryUpdated="kategori güncellendi";
+        public static string CustomerListed;
     }
 }
